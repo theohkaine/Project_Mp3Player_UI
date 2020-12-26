@@ -3,4 +3,4 @@ Project of a working MP3 player that will be implement on a website by using REA
 
 
 
-![alt-text](Pictures/Astral Chain@2x.png)
+![alt-text](Pictures/AstralChain2x.png)
